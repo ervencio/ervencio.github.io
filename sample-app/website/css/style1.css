@@ -1,0 +1,78 @@
+.fundo {
+	background: linear-gradient(#A9A9A9, #fefefe);
+}
+.logo {
+	font-family: 'Dancing Script', cursive;
+	font-size: 100px;
+	margin: 0 auto;
+	padding: 20px 40px 20px;
+}
+
+strong {
+	color: red;
+}
+
+.data {
+	font-family: 'Dancing Script', cursive;
+	position: absolute;
+	top: 20px;
+	right: 100px;
+	font-size: 100px;
+}
+
+main {
+	width: 940px;
+	margin: 0 auto;
+}
+
+.formulario {
+	width: 100%;
+	margin: 1em auto;
+}
+
+form {
+	margin: 40px 0;
+}
+
+form label {
+	display: block;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+
+.input-nome {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 80%;
+}
+
+.input-email {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+	width: 40%;
+}
+
+.enviar {
+	width: 40%;
+	padding: 15px 0;
+	background: orange;
+	color: white;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 5px;
+	transition: 1s all;
+	cursor: pointer;
+}
+
+.enviar:hover {
+	background: black;
+}
+
+.mapa-festa{
+	width: 940px;
+	margin: 0 auto;
+}
